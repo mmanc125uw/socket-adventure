@@ -115,9 +115,6 @@ class Server(object):
         :return: None 
         """
 
-        #***MMM
-        print("***MMM port " + str(self.port))
-        
         # TODO: YOUR CODE HERE
         received = b''
         while b'\n' not in received:

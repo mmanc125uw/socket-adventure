@@ -1,0 +1,29 @@
+
+C:\A_uwPython\SP_Online_PY230\lesson3\socket-adventure>python client.py 8000
+OK! Welcome to Realms of Venture! You are in the room with the white wallpaper.
+
+> say hello
+OK! You say, "hello"
+
+> move north
+OK! You are in the room with the mauve wallpaper.
+
+> say test 1
+OK! You say, "test 1"
+
+> move south
+OK! You are in the room with the white wallpaper.
+
+> say test 2
+OK! You say, "test 2"
+
+> move west
+OK! You are in the room with the green wallpaper.
+
+> quit
+OK! Goodbye!
+
+> q
+Connection closed by host.
+
+C:\A_uwPython\SP_Online_PY230\lesson3\socket-adventure>
